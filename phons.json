@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 13 Pro",
+        "price": 999,
+        "description": "The iPhone 13 Pro is the latest flagship smartphone from Apple. It features a stunning Super Retina XDR display, powerful A15 Bionic chip, and advanced triple-camera system.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt8VlsMq38FOQLjjaqelyXVJr7UpYOLY9gMA&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S21 Ultra",
+        "price": 1199,
+        "description": "The Samsung Galaxy S21 Ultra is a premium Android smartphone with a large Dynamic AMOLED display, versatile quad-camera system, and powerful Exynos 2100 processor.",
+        "image": "galaxy_s21_ultra.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 6 Pro",
+        "price": 899,
+        "description": "The Google Pixel 6 Pro offers exceptional camera capabilities with its advanced computational photography features. It also boasts a smooth 120Hz display and powerful performance.",
+        "image": "pixel_6_pro.jpg"
+    },
+    {
+        "id": 4,
+        "name": "OnePlus 9 Pro",
+        "price": 899,
+        "description": "The OnePlus 9 Pro is a high-performance Android smartphone with a beautiful Fluid AMOLED display, Hasselblad-tuned quad-camera system, and fast Warp Charge technology.",
+        "image": "oneplus_9_pro.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi Mi 11",
+        "price": 699,
+        "description": "The Xiaomi Mi 11 is a feature-packed smartphone with a stunning 120Hz AMOLED display, powerful Snapdragon 888 processor, and versatile triple-camera setup.",
+        "image": "mi_11.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sony Xperia 1 III",
+        "price": 1299,
+        "description": "The Sony Xperia 1 III is a flagship smartphone with a 4K OLED display, professional-grade camera system, and powerful Qualcomm Snapdragon 888 processor.",
+        "image": "xperia_1_iii.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Huawei P50 Pro",
+        "price": 1099,
+        "description": "The Huawei P50 Pro features an innovative camera system co-engineered with Leica, a stunning OLED display, and powerful Kirin 9000 processor.",
+        "image": "p50_pro.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Motorola Edge+",
+        "price": 799,
+        "description": "The Motorola Edge+ offers a large OLED display with a 144Hz refresh rate, a capable triple-camera system, and a long-lasting battery with fast charging.",
+        "image": "motorola_edge_plus.jpg"
+    },
+    {
+        "id": 9,
+        "name": "ASUS ROG Phone 5",
+        "price": 999,
+        "description": "The ASUS ROG Phone 5 is a gaming smartphone designed for high-performance gaming with its Snapdragon 888 processor, AMOLED display, and AirTrigger buttons.",
+        "image": "rog_phone_5.jpg"
+    },
+    {
+        "id": 10,
+        "name": "LG Velvet",
+        "price": 599,
+        "description": "The LG Velvet features a sleek design, vibrant OLED display, and solid performance. It's a stylish and affordable option for smartphone users.",
+        "image": "lg_velvet.jpg"
+    }
+]
